@@ -1,0 +1,82 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Pytest
+.pytest_cache/
+
+# profiling data
+*.prof
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Spyder
+.spyproject/
+
+# Thumbnails
+*.png
+
+# MacOS and Linux system files
+.DS_Store
+Thumbs.db
+
+# Local env and secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# SQLite and other local databases
+*.sqlite3
+*.db
